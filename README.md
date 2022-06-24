@@ -31,6 +31,11 @@ A cli to browse and watch anime (alone AND with friends). This tool scrapes the 
 
 https://user-images.githubusercontent.com/44473782/160729779-41fe207c-b5aa-4fed-87db-313c83caf6bb.mp4
 
+## Fork Info
+This fork is for people who prefer using MPV over Flatpak.
+
+**NOTE**: This **only** supports the Flatpak version of MPV, not the standard one.
+
 ## Table of Contents
 
 - [Fixing errors](#Fixing-errors)
